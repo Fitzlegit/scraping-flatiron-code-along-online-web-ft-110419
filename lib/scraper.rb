@@ -1,4 +1,4 @@
-morequire 'pry'
+require 'pry'
 require 'nokogiri'
 require 'open-uri'
 
